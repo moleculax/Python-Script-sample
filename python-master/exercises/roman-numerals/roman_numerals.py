@@ -1,0 +1,2 @@
+def numeral(number):
+    pass
